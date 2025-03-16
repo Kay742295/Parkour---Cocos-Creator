@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "doubleClip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d6af4642-64a9-4c19-9cfd-b42f9498645f"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "449ec037-a977-4b90-ba8c-a3cd8088ed56"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "0c248256-4778-42ef-9ec7-67417df01820"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "449ec037-a977-4b90-ba8c-a3cd8088ed56"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

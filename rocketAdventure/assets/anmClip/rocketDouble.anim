@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rocketDouble",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0995faa4-0835-42c3-a2eb-76b27ca8c3ab"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "bd77b4fa-79ee-4d46-8007-e676f4403cc6"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "a48d455f-76ea-4880-8d2b-3c12c551fa4d"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "bd77b4fa-79ee-4d46-8007-e676f4403cc6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

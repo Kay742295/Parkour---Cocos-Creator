@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shieldclip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "033e93c1-534b-4341-8ed5-1c218f1570a7"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "cb7700fb-f3c0-47f6-aeac-617475db908e"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "e114ce8b-3416-4093-ae84-deada4902e23"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "cb7700fb-f3c0-47f6-aeac-617475db908e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
